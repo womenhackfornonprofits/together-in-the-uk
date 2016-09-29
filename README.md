@@ -17,3 +17,4 @@ Nothing to set up yet
 * Victoria:
 * Kasia
 * Lili: Full stack
+* Yana: Front End (mainly) & Backend
