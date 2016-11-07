@@ -15,6 +15,6 @@ Nothing to set up yet
 * Natsuki: Project Manager
 * Clem: Project Manager, Front End
 * Victoria:
-* Kasia
+* Kasia: Front End (mainly)
 * Lili: Full stack
 * Yana: Front End (mainly) & Backend
