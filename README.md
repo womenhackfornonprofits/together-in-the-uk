@@ -18,3 +18,4 @@ Nothing to set up yet
 * Kasia
 * Lili: Full stack
 * Yana: Front End (mainly) & Backend
+* Cigdem: 
