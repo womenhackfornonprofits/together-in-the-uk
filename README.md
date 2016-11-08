@@ -18,3 +18,4 @@ Nothing to set up yet
 * Kasia: Front End (mainly)
 * Lili: Full stack
 * Yana: Front End (mainly) & Backend
+* Cigdem: Full stack (but less experience on Front End - Express/node, Angular, html, css, C/C++) 
