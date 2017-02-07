@@ -14,4 +14,4 @@
 
 - Follow the ```Pantheon Local Development``` [Instructions](https://pantheon.io/docs/local-development/)
 
-*Please raise any questions or issues in the slack group*
+*<p align="right">Please raise any questions or issues in the slack group</p>*
