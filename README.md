@@ -11,9 +11,10 @@ Project is to help TGIUK with design and build of a professional website for the
  - Slack for group chats/standups etc
 
 ### Setup Info
-1. Create an account on ```[Pantheon](https://pantheon.io)```
-2. Generate ```[SSH Key](https://pantheon.io/docs/ssh-keys/)```
-2. Install ```[Kalabox](https://pantheon.io/docs/kalabox/)```
+1. Create an account on [Pantheon](https://pantheon.io)
+2. Generate [SSH Key](https://pantheon.io/docs/ssh-keys/)
+3. Install [Kalabox](https://pantheon.io/docs/kalabox/)
+
 #### Kalabox - Supported Platforms
 - macOS 10.10+
 - Windows 10 Pro+ (or equivalent) with Hyper-V running
