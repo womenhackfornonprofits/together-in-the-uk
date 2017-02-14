@@ -27,6 +27,7 @@ Project is to help TGIUK with design and build of a professional website for the
 * Kasia: Front End (mainly)
 * Lili: Full stack
 * Yana: Front End (mainly) & Backend
+* Ayanda: Front End (mainly) & Backend
 * Cigdem: Full stack (but less experience on Front End - Express/node, Angular, html, css, C/C++) 
 
 # Contributing
